@@ -75,7 +75,7 @@ header{
     justify-content: center;
     text-align: center;
     color: var(--mainRed);
-    background: url("../images/banner.jpg") no-repeat bottom center;
+    background: url("../img/banner.jpg") no-repeat bottom center;
     background-size: cover;
 }
 .banner-title{
